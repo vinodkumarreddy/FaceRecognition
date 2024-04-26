@@ -1,3 +1,10 @@
+#Pipfiles
+Pipfile
+Pipfile.lock
+
+#ignore data
+Data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
